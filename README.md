@@ -23,9 +23,9 @@ One of the reasons for jailbreaking is to expand the feature set limited by Appl
 
 The device must then be exploited and have the kernel patched each time it is turned on.
 
-An "untethered" jailbreak has the property that if the user turns the device off and back on, the device will start up completely, and the kernel will be patched without the help of a computer – thus enabling the user to boot without the need to use a computer.[26] These jailbreaks are harder to make and take a lot of reverse engineering and years of experience.
+An "untethered" jailbreak has the property that if the user turns the device off and back on, the device will start up completely, and the kernel will be patched without the help of a computer – thus enabling the user to boot without the need to use a computer.These jailbreaks are harder to make and take a lot of reverse engineering and years of experience.
 
-With a "tethered" jailbreak, a computer is needed to turn the device on each time it is rebooted. If the device starts back up on its own, it will no longer have a patched kernel, and it may get stuck in a partially started state. By using a computer, the phone is essentially "re-jailbroken" (using the "boot tethered" feature of a jailbreaking tool) each time it is turned on.[27] With a tethered jailbreak, the user can still restart SpringBoard ("respring") on the device without needing to reboot.
+With a "tethered" jailbreak, a computer is needed to turn the device on each time it is rebooted. If the device starts back up on its own, it will no longer have a patched kernel, and it may get stuck in a partially started state. By using a computer, the phone is essentially "re-jailbroken" (using the "boot tethered" feature of a jailbreaking tool) each time it is turned on. With a tethered jailbreak, the user can still restart SpringBoard ("respring") on the device without needing to reboot.
 
 There is also "semi-tethered" solution, which means that when the device boots, it will no longer have a patched kernel (so it will not be able to run modified code), but it will still be usable for normal functions such as making phone calls, or texting. To use any features that require running modified code, the user must start the device with the help of the jailbreaking tool in order for it to start with a patched kernel (jailbroken).
 
